@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n hicap-yo-momma
+app: bin/hubot -a campfire -n hicapbot
